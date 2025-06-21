@@ -46,7 +46,7 @@ Download and install from [Docker Desktop for Windows](https://docs.docker.com/d
 - Allocate at least 4GB RAM to Docker (8GB recommended)
 - Enable integration with your Ubuntu distribution
 
-![Docker WSL Integration](images/docker_wsl_integration.png)
+![Docker WSL Integration](images/docker_wsl_integration_windows.png)
 
 #### 3. Python (via uv - Recommended)
 Install the `uv` tool for Python management:
